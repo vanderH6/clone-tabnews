@@ -1,0 +1,5 @@
+root = true
+
+[*] # regras para todos os arquivos (pode ser filtrado por extensão de arquivo)
+indent_style = space
+indent_size = 2
